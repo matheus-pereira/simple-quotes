@@ -1,18 +1,7 @@
-# vue-cli
+# simple-quotes
 
-> A Vue.js project
+This application was built during the course Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex), created by Maximilian Schwarzmüller and available at Udemy.
 
-## Build Setup
+You can access this demo [here](https://matheus-pereira.github.io/simple-quotes).
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Thank you, see ya!
